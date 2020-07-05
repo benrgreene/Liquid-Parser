@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "parse-liquid": "./src/index.js"
+    "parse-liquid": "./bin/liquify"
   },
   "main": "src/index.js",
   "author": "Ben Greene <benrgreene@gmail.com>",
